@@ -46,3 +46,6 @@ Dockerfile
 
 # Miscellaneous
 *.tgz
+
+#upload images
+uploads/
